@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prefe\\OneDrive\\Documentos\\Projetos\\C#\\Desafio Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B51BE6-8B7D-47AE-BF71-EBD82EB639D8}|Desafio Banco\\Desafio Banco.csproj|c:\\users\\prefe\\onedrive\\documentos\\projetos\\c#\\desafio banco\\desafio banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B51BE6-8B7D-47AE-BF71-EBD82EB639D8}|Desafio Banco\\Desafio Banco.csproj|solutionrelative:desafio banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\prefe\\OneDrive\\Documentos\\Projetos\\C#\\Desafio Banco\\Desafio Banco\\Conta.cs",
+              "RelativeDocumentMoniker": "Desafio Banco\\Conta.cs",
+              "ToolTip": "C:\\Users\\prefe\\OneDrive\\Documentos\\Projetos\\C#\\Desafio Banco\\Desafio Banco\\Conta.cs",
+              "RelativeToolTip": "Desafio Banco\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T12:18:05.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
